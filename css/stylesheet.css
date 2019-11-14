@@ -4,3 +4,23 @@
 #bat-fade{
   display:none;
 }
+
+.hide{
+  display:none;
+}
+
+.background-color{
+  background-color: black;
+  color: pink;
+}
+
+.original-color{
+  background-color: white;
+  color: green;
+}
+
+.highlight-box{
+  background-color: pink;
+  border-width: medium;
+  border-color: grey;
+}
